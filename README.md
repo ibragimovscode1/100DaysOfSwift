@@ -13,3 +13,4 @@ Each "day" folder will contain a write-up where I'll recap the material covered,
 Projects
 
 Here will be some projects that  I created alongside.
+![DyT8vM-X0AAvlPX jpg-large](https://user-images.githubusercontent.com/89012665/163595025-3aff4d87-3235-4b08-8460-9e54cab44b0d.jpeg)
