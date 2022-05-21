@@ -6,7 +6,7 @@
 
 //Swift solutions is called optionals, and we can make optionals out of any type. An optional integer might have a number like 0 or 40, but it might have no value at all - it might literally be missing, which is nill in Swift.
 
-//To make a type optional, add a qustion mark after it. For ex. we can make optinal integer like this:
+//To make a type optional, add a qustion mark after it. For ex. we can make optional integer like this:
 
 var age: Int? = nil
 //That doesnt hold any number - it holds nothing. But if we later learn that age, we can use it:
