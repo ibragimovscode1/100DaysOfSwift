@@ -44,7 +44,7 @@ func square3(number: Int) -> Int {
 }
 //That names its parameter number, so we can use number inside that function to refer to it, but we must also use the name when running function like this:
 
-let reseult = square3(number: 3)
+let result = square3(number: 3)
 
 //Swift let us provide two names for each parameter: one to be used used externally when calling the function . This is a simple as writing two names, separated by a space.
 
